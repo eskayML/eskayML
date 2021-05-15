@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm samuel
+
+I'm 16  years  old.
+
+I had this passion for programming since I was a kid.
+
+I started off with python programming 2 years ago  and I use it extensively  for building web applications with django   and  also for data analysis
+
+I'm also very  conversant  with  frontend web development using 
+HTML
+css
+Js
+Bootstrap
+jQuery
+And so on
+
+I'm also a little groomed with cyber security and ethical hacking
+
+⚡I code with my mobile phone
+📫 WhatsApp: +2348098331344
+I hope  to  gain more knowledge and experience in this  tech  field and continue using my soft skills to create solutions to solve major problems in the world at large
