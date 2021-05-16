@@ -20,7 +20,7 @@ I'm 16  years  old.
 
 I had this passion for programming since I was a kid.
 
-I started off with python programming 2 years ago  and I use it extensively  for building web applications with django   and  also for data analysis
+I started off with python programming 2 years ago  and I use it extensively  for building web applications with flask&django   and  also for data analysis
 
 I'm also very  conversant  with  frontend web development using 
 HTML
