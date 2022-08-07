@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">A Machine learning hobbyist from Nigeria</h3>
+<h3 align="center">A Machine learning hobbyist from Nigeria🇳🇬</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalusam1&label=Profile%20views&color=0e75b6&style=flat" alt="kalusam1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalusam1&label=Profile%20views&color=0e75b6&style=flat" alt="eskayML" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eskayML" alt="eskayML" /></a> </p>
 
