@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">A Pythonista and Machine learning developer from Nigeria🇳🇬</h3>
+<h3 align="center">A Pythonista, Data Scientist/Machine learning Engineer from Nigeria🇳🇬</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalusam1&label=Profile%20views&color=0e75b6&style=flat" alt="eskayML" /> </p>
 
@@ -7,10 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/eskayml" target="blank"><img src="https://img.shields.io/twitter/follow/eskayml?logo=twitter&style=for-the-badge" alt="eskayml" /></a> </p>
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I’m currently learning how to use **Deep learning**
 
 
-- 💬 Ask me about **Machine learning and AI**
+- 💬 Ask me anything about **Classification, Regression and Data exploration**
 
 - 📫 How to reach me **kalusam619@gmail.com**
 
