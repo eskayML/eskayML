@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning how to use **Deep learning**
 
 
-- 💬 Ask me anything about **Classification, Regression and Data exploration**
+- 💬 Ask me anything about **Classification, Regression and Data Manipulation**
 
 - 📫 How to reach me **kalusam619@gmail.com**
 
