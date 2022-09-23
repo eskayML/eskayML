@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/eskayml" target="blank"><img src="https://img.shields.io/twitter/follow/eskayml?logo=twitter&style=for-the-badge" alt="eskayml" /></a> </p>
 
-- 🌱 I’m currently learning how to use **Deep learning**
+- 🌱 I’m currently learning how to use **Deep learning** for vision and language tasks
 
 
 - 💬 Ask me anything about **Classification, Regression and Data Manipulation**
