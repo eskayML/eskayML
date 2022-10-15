@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kalusam619@gmail.com**
 
-- Loves learning new things and challenging myself
+- Loves learning new things especially related to AI
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
