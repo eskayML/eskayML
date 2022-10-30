@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning how to use **Deep learning** for vision and language tasks
 
 
-- 💬 Ask me anything about **Classification, Regression, Feature Engineering, Neural Networks and Data Manipulation**
+- 💬 Ask me anything about **How Computers Learn through AI**
 
 - 📫 How to reach me **kalusam619@gmail.com**
 
