@@ -7,14 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/eskayml" target="blank"><img src="https://img.shields.io/twitter/follow/eskayml?logo=twitter&style=for-the-badge" alt="eskayml" /></a> </p>
 
-- 🌱 I’m currently learning how to use **Deep learning** for vision and language tasks
 
+- 🌱 I’m currently learning how to use **Deep learning** for vision and language tasks
 
 - 💬 Ask me anything about **How Computers Learn through AI**
 
 - 📫 How to reach me **kalusam619@gmail.com**
 
-- Loves learning new things especially related to AI
+- Loves learning new things especially related to AI and Machine Learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
