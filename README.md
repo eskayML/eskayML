@@ -16,6 +16,9 @@ I'm a passionate machine learning engineer on a journey to unravel the mysteries
 - 📚 I write blog posts and create tutorials to demystify machine learning concepts and help others on their learning journey.
 - 🤝 I'm a firm believer in collaboration and teamwork. Let's learn, build, and grow together!
 
+### Tools / Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+
 ### Let's Connect!
 
 - 📫 Feel free to reach out to me for collaboration opportunities, questions, or just a friendly chat via [email](mailto:kalusam619@gmail.com)
