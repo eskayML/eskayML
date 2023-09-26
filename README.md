@@ -30,5 +30,7 @@ I'm a passionate machine learning engineer on a journey to unravel the mysteries
 
 I firmly believe that every machine learning model is a reflection of its creator's creativity and curiosity. So, let's inject some fun and creativity into our models! 🚀✨
 
+![Giga](https://media.giphy.com/media/CAYVZA5NRb529kKQUc/giphy.gif)
+
 Thanks for visiting my GitHub. Happy coding! 🤖💻
 
