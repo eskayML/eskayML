@@ -1,34 +1,31 @@
-<h1 align="center">Hello 👋, I'm Samuel</h1>
-<h3 align="center">A Budding Pythonista and Machine learning Engineer from Nigeria🇳🇬</h3>
+## Hello, I'm Samuel 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalusam1&label=Profile%20views&color=0e75b6&style=flat" alt="eskayML" /> </p>
+I'm a passionate machine learning engineer on a journey to unravel the mysteries of data and build intelligent systems that make the world a better place. 🌍✨
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eskayML" alt="eskayML" /></a> </p>
+### About Me
 
-<p align="left"> <a href="https://twitter.com/eskayml" target="blank"><img src="https://img.shields.io/twitter/follow/eskayml?logo=twitter&style=for-the-badge" alt="eskayml" /></a> </p>
+- 🤖 I'm deeply fascinated by the world of machine learning and AI, and I'm always eager to learn and explore new algorithms and models.
+- 📊 Data-driven decision-making is my mantra, and I love extracting insights and patterns from data to drive innovation.
+- 🌱 I'm committed to lifelong learning and sharing knowledge with the community.
+- 😄 My mission: to make complex machine learning concepts accessible and enjoyable for everyone!
 
+### What I Do
 
-- 🌱 I’m currently learning how to use **Deep learning** for vision and language tasks
+- 🧠 I design and develop machine learning models for various applications, from natural language processing to computer vision and beyond.
+- 🛠️ I'm proficient in Python and enjoy working with popular libraries like TensorFlow, PyTorch, and scikit-learn.
+- 📚 I write blog posts and create tutorials to demystify machine learning concepts and help others on their learning journey.
+- 🤝 I'm a firm believer in collaboration and teamwork. Let's learn, build, and grow together!
 
-- 💬 Ask me anything about **How Computers Learn through AI**
+### Let's Connect!
 
-- 📫 How to reach me **kalusam619@gmail.com**
+- 📫 Feel free to reach out to me for collaboration opportunities, questions, or just a friendly chat via [email](mailto:kalusam619@gmail.com)
+- 🌐 Visit my [blog](https://dev.to/eskayml) to learn more about my projects and articles.
+- 💬 Connect with me on [LinkedIn](https://linkedin.com/in/samuel-kalu-3374b1248) for professional networking.
+- 🐦 Follow me on [Twitter](https://twitter.com/eskayML) to stay updated on the latest in AI and machine learning.
 
-- Loves learning new things especially related to AI and Machine Learning
+### Fun Fact
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/eskayml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eskayml" height="30" width="40" /></a>
-<a href="https://kaggle.com/kalusamuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kalusamuel" height="30" width="40" /></a>
-</p>
+I firmly believe that every machine learning model is a reflection of its creator's creativity and curiosity. So, let's inject some fun and creativity into our models! 🚀✨
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+Thanks for visiting my GitHub. Happy coding! 🤖💻
 
-![3d-Commit Streaks](./profile-3d-contrib/profile-gitblock.svg)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eskayML&show_icons=true&locale=en&layout=compact" alt="eskayML" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eskayML&show_icons=true&locale=en" alt="eskayML" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eskayML&" alt="eskayML" /></p>
