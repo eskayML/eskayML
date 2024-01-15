@@ -1,6 +1,6 @@
 ## Hello, I'm Samuel 👋
 
-I'm a passionate machine learning engineer on a journey to unravel the mysteries of data and build intelligent systems that make the world a better place. 🌍✨
+I'm a passionate machine learning engineer who builds and contributes to machine learning projects 
 
 ### About Me
 
