@@ -8,6 +8,7 @@ I'm a passionate machine learning engineer who builds and contributes to machine
 - 📊 Data-driven decision-making is my mantra, and I love extracting insights and patterns from data to drive innovation.
 - 🌱 I'm committed to lifelong learning and sharing knowledge with the community.
 - 😄 My mission: to make complex machine learning concepts accessible and enjoyable for everyone!
+- Currently Exploring: Web3 & BlockChain Analytics
 
 ### What I Do
 
