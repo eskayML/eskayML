@@ -8,7 +8,9 @@
 
 ###
 
-<p align="left">I flatter myself as being a Software Engineer. But my interests & experience pander towards the AI & machine learning Engineering side of things.<br><br>I break things, then teach machines how to fix them.<br><br>During my time in B2B startups, I have trained models that served thousands of businesses and have contributed heavily in open source especially through programs like GSOC .<br><br>My hobby projects stretch far and wide: <br> -I have built different automations to speedrun gambling & trading systems (bypassing captchas along the way)<br> -I have also worked on Onchain Analysis Agents for solana tokens which made me quite a fortune.<br><br><br>At the moment you would catch me exploring Very complex reasoning models and complex agentic pipelines.<br><br>Hit me up if you have something we could work on together.
+<p align="left">I flatter myself as being a Software Engineer. But my interests & experience pander towards the AI & machine learning Engineering side of things.<br><br>I break things, then teach machines how to fix them.<br><br>During my time in B2B startups, I have trained models that served thousands of businesses 
+  
+In terms of giving back to society , I have contributed heavily in open source especially through programs like GSOC .<br><br>My hobby projects stretch far and wide: <br> -I have built different automations to speedrun gambling & trading systems (bypassing captchas along the way)<br> -I have also worked on Onchain Analysis Agents for solana tokens which made me quite a fortune.<br><br><br>At the moment you would catch me exploring Very complex reasoning models and complex agentic pipelines.<br><br>Hit me up if you have something we could work on together.
 <a href="mailto:kalusam619@gmail.com">Message me</a>
 </p>
 
